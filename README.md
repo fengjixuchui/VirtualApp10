@@ -1,7 +1,7 @@
  #    VirtualApp Android 10.0适配
 
 [软件原版](https://github.com/asLody/VirtualApp)<br>
-本项目纯属个人学习修改,有疑问请联系本人 VX:kook_bug
+本项目纯属个人学习修改,有疑问请联系本人   微信:kook_bug
 
 由于个人刚做好兼容 android 10 、部分App还存在bug <br>
 [做VA兼容工具](https://github.com/lx82319214/kooksh)
@@ -16,4 +16,11 @@
    2、修复AppOps 的问题<br>
    3、修复各类兼容小问题<br>
 
-目前遇到兼容android 10 后64位应用能运行，部分32位应用运行失败，待native hook 兼容后更新
+## 2020.7.4<br>
+   1、修复 含有 WebView 的界面会报错 <br>
+   2、android 10 更多应用稳定兼容<br>
+   3、可以运行目前主流 应用,QQ,WeChat、王者农药、支付宝，淘宝，PDD，荒野行动等<br>
+   
+   
+
+tip：本项目代码一直未更新是由于兼容性问题在个人项目上进行，未进行代码分离不方便进行上传，待个人项目完结后分离VA部分上库、感谢大家多多支持
