@@ -4,6 +4,7 @@
 本项目纯属个人学习修改,有疑问请 TG电报群（Telegram） 联系:http://t.me/auto_aid （VX:kook_bug）<br>
 可以过钉钉、企业微信虚拟检测、也有自动化操作模拟操作、按键等<br>
 
+[钉钉打卡](https://github.com/lx82319214/dingtalk_sign)<br>
 
 ## 2020.6.4<br>
    1、修改原始系统不能反射导致的诸多问题<br>
