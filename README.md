@@ -1,4 +1,4 @@
- #    VirtualApp Android 10.0适配
+ #    VirtualApp Android 10.0~11.0适配
 
 [软件原版](https://github.com/asLody/VirtualApp)<br>
 本项目纯属个人学习修改,有疑问请 TG电报群（Telegram） 联系:http://t.me/auto_aid （VX:kook_bug）<br>
@@ -26,5 +26,9 @@
    2、32位与64位运行在一个app gui 中（64实则是hook 32的一切在 64 p 中运行）<br>
    3、集成 xposed 功能 <br>
    4、添加va内存读写及搜索功能 <br>
+   
+## 2021.2.24<br>
+   1、兼容11正常运行国内主流app<br>
+  
    
 tip：不能岁月静好，还不如负重前行
