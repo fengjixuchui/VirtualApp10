@@ -29,7 +29,7 @@ TG电报群（Telegram） 联系:http://t.me/auto_aid   OR Email :kookbughe@gmai
    4、添加va内存读写及搜索功能 <br>
    
 ## 2021.2.24<br>
-   1、兼容11正常运行国内主流app<br>
+   1、兼容11正常运行国内主流app  （Demo app 请进TG 群）<br>
   
    
 tip：不能岁月静好，还不如负重前行
