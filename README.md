@@ -1,7 +1,8 @@
  #    VirtualApp Android 10.0~11.0适配
 
 [软件原版](https://github.com/asLody/VirtualApp)<br>
-本项目纯属个人学习修改,有疑问请 TG电报群（Telegram） 联系:http://t.me/auto_aid   OR Email :kookbughe@gmail.com <br>
+本项目纯属个人学习修改,有疑问请 <br>
+TG电报群（Telegram） 联系:http://t.me/auto_aid   OR Wechat :kook_bug <br>
 可以过钉钉、企业微信虚拟检测、也有自动化操作模拟操作、按键等<br>
 
 [钉钉打卡APK请进](https://github.com/lx82319214/dingtalk_sign)<br>
@@ -28,7 +29,7 @@
    4、添加va内存读写及搜索功能 <br>
    
 ## 2021.2.24<br>
-   1、兼容11正常运行国内主流app<br>
+   1、兼容11正常运行国内主流app  （Demo app 请进TG 群）<br>
   
    
 tip：不能岁月静好，还不如负重前行
